@@ -1,0 +1,1 @@
+cmd_/home/guilber/Documentos/TRAB-Guilber/ex3-iterando/simple.mod := { echo  /home/guilber/Documentos/TRAB-Guilber/ex3-iterando/simple.o;  echo; } > /home/guilber/Documentos/TRAB-Guilber/ex3-iterando/simple.mod

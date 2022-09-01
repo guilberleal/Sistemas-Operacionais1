@@ -1,0 +1,1 @@
+cmd_/home/guilber/Documentos/TRAB-Guilber/ex2-listagem/modules.order := {   echo /home/guilber/Documentos/TRAB-Guilber/ex2-listagem/simple.ko; :; } | awk '!x[$$0]++' - > /home/guilber/Documentos/TRAB-Guilber/ex2-listagem/modules.order

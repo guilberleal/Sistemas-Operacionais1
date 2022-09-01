@@ -1,0 +1,1 @@
+cmd_/home/guilber/Documentos/TRAB-Guilber/Module.symvers := sed 's/\.ko$$/\.o/' /home/guilber/Documentos/TRAB-Guilber/modules.order | scripts/mod/modpost -m -a  -o /home/guilber/Documentos/TRAB-Guilber/Module.symvers -e -i Module.symvers   -T -

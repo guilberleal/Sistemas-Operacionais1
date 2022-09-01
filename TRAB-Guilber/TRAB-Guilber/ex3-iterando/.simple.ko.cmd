@@ -1,0 +1,1 @@
+cmd_/home/guilber/Documentos/TRAB-Guilber/ex3-iterando/simple.ko := ld -r  -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/guilber/Documentos/TRAB-Guilber/ex3-iterando/simple.ko /home/guilber/Documentos/TRAB-Guilber/ex3-iterando/simple.o /home/guilber/Documentos/TRAB-Guilber/ex3-iterando/simple.mod.o;  true
